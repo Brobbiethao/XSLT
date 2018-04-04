@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="list.xsl" type:"text/xsl" ?>
+<Autobot>
+    <class>
+        <Name>Optimus Prime</Name>
+        <Designation>Prime</Designation>
+        <Type>Freightliner FL86 COE</Type>
+        <Status>Orion Pax – Current bearer of the autobot Matrix of Leadership</Status>
+    </class>
+    <class>
+        <Name>Sentinel Prime</Name>
+        <Designation>Prime</Designation>
+        <Type>Cybertronian Truck</Type>
+         <Status>killed by Megatron</Status>
+    </class>
+    <class>
+        <Name>Rodimus Prime</Name>
+        <Designation>Prime</Designation>
+        <Type>Futuristic Truck</Type>
+        <Status>Formerly known as Hot Rod, Rodimus is the recipient of the Autobot Matrix of Leadership.</Status>
+    </class>
+    <class>
+        <Name>Thirteen PRimes</Name>
+        <Designation>Prime</Designation>
+        <Type>unknown</Type>
+        <Status>NA</Status>
+    </class>
+</Autobot>
